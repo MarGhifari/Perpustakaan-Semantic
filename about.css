@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*--------- SCROLL BAR CUSTOM ------ */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+/*---- Navbar -----*/
+header{
+    border-bottom: 5px solid #ecab28;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.web-logo img{
+    width: 35%;
+    margin:0 20px;
+}
+
+nav ul{
+    margin-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 25px;
+    margin: 0 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav ul li a:hover{
+    color: #ecab28;
+}
+
+/*---- Section 1 -----*/
+.main-content{
+    position: absolute;
+    background-color: #f7f6f1;
+}
+
+.content-wrapper{
+    margin: 5%;
+}
+
+.head-title{
+    font-family: 'poppins';
+    font-size: 30px;
+}
+
+.text{
+    font-family: 'open sans', sans-serif;
+    text-align: justify;
+    line-height: 30px;
+}

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dc: <https://purl.org/dc/elements/1.1/> .
+
+rdf:Description rdf:about <https://id.wikipedia.org/wiki/Crystal_of_Knowledge>;
+    dc:name "Perpustakaan UI";
+    dc:city "Kota Depok";
+    dc:province "Jawa Barat";
+    dc:year "2011";
+    dc:desc "Gedung bernama “The Crystal of Knowledge” ini selesai dibangun di awal tahun 2011, dan proses integrasi dimulai pada bulan Maret 2012";
+    dc:gambar "https://i1.wp.com/www.hops.id/wp-content/uploads/2020/03/9475134853_39f3d9bfe5_k.jpg?fit=2048%2C1536&ssl=1".
+
+rdf:Description rdf:about <https://lib.itb.ac.id/tentang-perpustakaan>;
+    dc:name "Perpustakaan ITB";
+    dc:city "Kota Bandung";
+    dc:province "Jawa Barat";
+    dc:year "1987";
+    dc:desc "Perpustakaan ITB berdiri bersamaan dengan lahirnya Technische Hoogeschool (TH) di Bandung pada tahun 1920, sebagai cikal bakal ITB pada masa pendudukan Belanda.";
+    dc:gambar "https://webpac.lib.itb.ac.id/assets/theme/susis/images/slide/slide1.jpg".
+
+rdf:Description rdf:about <http://dispusipda.jabarprov.go.id/profil/sejarah_lembaga>;
+    dc:name "Perpustakaan DISPUSIPDA Jabar";
+    dc:city "Kota Bandung";
+    dc:province "Jawa Barat";
+    dc:year "2017";
+    dc:desc "Dinas Perpustakaan dan Kearsipan Daerah Jawa Barat yang didirikan tahun 1992 oleh pemerintah Jawa Barat.";
+    dc:gambar "https://3.bp.blogspot.com/-QwKhP1J5C2Q/WGNfqs34MSI/AAAAAAAABm4/djYmVlWW4NgXvdvuLJPBa3piDqOyiE3ZQCLcB/s1600/bapusip.jpg".
+
+rdf:Description rdf:about <https://id.wikipedia.org/wiki/Erasmus_Huis>;
+    dc:name "Perpustakaan Erasmus Huis";
+    dc:city "Kota Jakarta Selatan";
+    dc:province "DKI Jakarta";
+    dc:year "1981";
+    dc:desc "Ini adalah Perpustakaan Erasmus Huis";
+    dc:gambar "https://asset.kompas.com/crops/WnqhyvhDyAqg03XDviOEw8zclQ4=/42x175:2575x1863/750x500/data/photo/2019/07/18/5d30364da8c70.jpg".
+
+rdf:Description rdf:about <https://perpustakaan.kemdikbud.go.id/profil>;
+    dc:name "Perpustakaan Kemendikbud";
+    dc:city "Kota Jakarta Pusat";
+    dc:province "DKI Jakarta";
+    dc:year "2004";
+    dc:desc "Ini Perpustakaan Kemendikbud";
+    dc:gambar "https://awsimages.detik.net.id/community/media/visual/2020/02/11/bf7326e6-e90d-45dc-b2eb-2de77f464397_169.jpeg?w=780&q=90".
+
+rdf:Description rdf:about <https://id.wikipedia.org/wiki/Perpustakaan_Nasional_Republik_Indonesia>;
+    dc:name "Perpustakaan Nasional";
+    dc:city "Kota Jakarta Pusat";
+    dc:province "DKI Jakarta";
+    dc:year "2017";
+    dc:desc "Ini Perpustakaan Nasional";
+    dc:gambar "https://3.bp.blogspot.com/-Je5tZiD05_M/XG0jNhbuplI/AAAAAAAACOY/gsrvTp8EecUEA4ojELwNv_n0qd2O9z9ogCLcBGAs/s1600/Perpusnas.jpg".
+
+rdf:Description rdf:about <http://perpustakaan.pemkomedan.go.id/>;
+    dc:name "Perpustakaan Kota Medan";
+    dc:city "Kota Medan";
+    dc:province "Sumatera Utara";
+    dc:year "1972";
+    dc:desc "Ini Perpustakaan Kota Medan";
+    dc:gambar "https://cdn2.tstatic.net/medan/foto/bank/images/dinas-perpustakaan-dan-kearsipan-pemko-medan.jpg".
+
+rdf:Description rdf:about <https://library.usu.ac.id/>;
+    dc:name "Perpustakaan USU";
+    dc:city "Kota Medan";
+    dc:province "Sumatera Utara";
+    dc:year "1970";
+    dc:desc "Ini Perpustakaan USU";
+    dc:gambar "https://mapio.net/images-p/14448630.jpg".
+
+rdf:Description rdf:about <https://perpustakaan.unimed.ac.id/profil-sejarah.html>;
+    dc:name "Perpustakaan UNIMED";
+    dc:city "Kota Medan";
+    dc:province "Sumatera Utara";
+    dc:year "1959";
+    dc:desc "Ini Perpustakaan UNIMED";
+    dc:gambar "https://www.unimed.ac.id/wp-content/uploads/2019/03/20171108111458.jpg".
